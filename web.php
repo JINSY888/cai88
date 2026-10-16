@@ -60,9 +60,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
@@ -407,4 +405,4 @@ JAPAN,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6225/index.
 肛红电视,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6167/index.m3u8
 分析电视,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6168/index.m3u8
 阿斯特01,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6169/index.m3u8
-阿斯特02,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6170/index.m3u8
+阿斯特02,http://
