@@ -208,7 +208,7 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 台视新闻,http://220.135.241.47:8314/0.ts
 中天亞洲台(MY),http://31.43.191.125:8080/restream/restream/34559
 
-测试频道,#genre#
+测试频道_520,#genre#
 凤凰中文,webview://https://345iptv.com/?act=play%26token=c80cba20d9f5c689aa1ea457a03d3420%26tid=gt%26id=1
 凤凰资讯,webview://https://345iptv.com/?act=play%26token=be8e20acbf96cbaeedf4a05974da1004%26tid=gt%26id=2
 凤凰香港,webview://https://345iptv.com/?act=play%26token=301120f25939085c3313bad63d7c207d%26tid=gt%26id=3
