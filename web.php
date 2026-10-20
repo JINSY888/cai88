@@ -186,19 +186,6 @@ HOY78,http://120.234.44.98:18180/TV00000000000000000078@HHZT
 Viutv,http://120.234.44.98:18180/TV00000000000000000037@HHZT
 RHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT
 RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT
-凤凰中文,webview://https://345iptv.com/?act=play%26token=c80cba20d9f5c689aa1ea457a03d3420%26tid=gt%26id=1
-凤凰资讯,webview://https://345iptv.com/?act=play%26token=be8e20acbf96cbaeedf4a05974da1004%26tid=gt%26id=2
-凤凰香港,webview://https://345iptv.com/?act=play%26token=301120f25939085c3313bad63d7c207d%26tid=gt%26id=3
-星空卫视,webview://http://27.25.159.105:18000/url/api.php?id=15702&tk=a08069f77d023a2f26
-翡翠台,webview://https://m.456iptv.com/?act=play%26token=0414e51b425be184dc3efa0db53e6812%26tid=gt%26id=5
-明珠台,webview://http://m.345iptv.com/?act=play%26token=d2d94c55f2275567a1d154afbc09587b%26tid=gt%26id=9
-有线新闻,webview://http://m.345iptv.com/?act=play%26token=fa85074433ae45388bb96b382056e5df%26tid=gt%26id=11
-无线新闻,webview://http://m.345iptv.com/?act=play%26token=bc7918833f7de6b2829ad197ddc05e10%26tid=gt%26id=6
-TVB Plus,webview://http://m.345iptv.com/?act=play%26token=806785b3e369da03a1bac892904a4ae9%26tid=gt%26id=8
-中天新闻,webview://http://m.345iptv.com/?act=play%26token=c5099746050c41f288c9c50a5002539b%26tid=gt%26id=43
-中视新闻,webview://http://m.345iptv.com/?act=play%26token=f433a3a8a177d0b012b4b337558191c2%26tid=gt%26id=46
-
-
 
 台湾频道,#genre#
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
@@ -220,6 +207,20 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 民视新闻台,http://211.72.174.95:8117/0.ts
 台视新闻,http://220.135.241.47:8314/0.ts
 中天亞洲台(MY),http://31.43.191.125:8080/restream/restream/34559
+
+测试频道,#genre#
+凤凰中文,webview://https://345iptv.com/?act=play%26token=c80cba20d9f5c689aa1ea457a03d3420%26tid=gt%26id=1
+凤凰资讯,webview://https://345iptv.com/?act=play%26token=be8e20acbf96cbaeedf4a05974da1004%26tid=gt%26id=2
+凤凰香港,webview://https://345iptv.com/?act=play%26token=301120f25939085c3313bad63d7c207d%26tid=gt%26id=3
+星空卫视,webview://http://27.25.159.105:18000/url/api.php?id=15702&tk=a08069f77d023a2f26
+翡翠台,webview://https://m.456iptv.com/?act=play%26token=0414e51b425be184dc3efa0db53e6812%26tid=gt%26id=5
+明珠台,webview://http://m.345iptv.com/?act=play%26token=d2d94c55f2275567a1d154afbc09587b%26tid=gt%26id=9
+有线新闻,webview://http://m.345iptv.com/?act=play%26token=fa85074433ae45388bb96b382056e5df%26tid=gt%26id=11
+无线新闻,webview://http://m.345iptv.com/?act=play%26token=bc7918833f7de6b2829ad197ddc05e10%26tid=gt%26id=6
+TVB Plus,webview://http://m.345iptv.com/?act=play%26token=806785b3e369da03a1bac892904a4ae9%26tid=gt%26id=8
+中天新闻,webview://http://m.345iptv.com/?act=play%26token=c5099746050c41f288c9c50a5002539b%26tid=gt%26id=43
+中视新闻,webview://http://m.345iptv.com/?act=play%26token=f433a3a8a177d0b012b4b337558191c2%26tid=gt%26id=46
+
 
 
 梦幻频道_520,#genre#
