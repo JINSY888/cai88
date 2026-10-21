@@ -10,11 +10,10 @@
       "searchable": 1,
       "filterable": 1
         },
-	{"key" : "hav 🔞","name": "🔞|黄艾薇","type":0,"api": "https://www.pgxdy.com/api/xml.php ","searchable": 1,"changeable": 1,"style":{"type":"rect","ratio":1.4}},		
-	{"key" : "森林🔞","name": "🔞|森林B 多雜","type":1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable": 1,"style":{"type":"rect","ratio":1.4}},
-{"key" : "色猫🔞","name": "🔞|色猫 短視頻","type":1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产自拍","日本无码","日本有码","中文字幕","欧美精品","成人动漫","日本素人","高清名优","三级伦理","网红主播","映画传媒","人妻熟女","口爆颜射","萝莉少女","SM调教","美乳巨乳","短视频","制服诱惑","女同性爱","AI换脸","多人群交","翹臀美尻","丝袜美腿","精选独家","貧乳小奶","探花系列"],"style":{"type":"rect","ratio":1.4}},
-{"key" : "乐播2🔞","name": "️🔞|乐播2","type":1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["亚洲情色","国产主播","国产自拍","无码专区","欧美性爱","熟女人妻","强奸乱伦","巨乳美乳","中文字幕","制服诱惑","女同性恋","卡通动画","视频伦理","少女萝莉","重口色情","人兽性交"],"style":{"type":"rect","ratio":1.4}},
-
+	{"key" : "hav 🔞","name": "🔞|黄艾薇","type":0,"api": "https://www.pgxdy.com/api/xml.php ", "searchable": 1, "quickSearch": 0, "filterable": 1},	
+	{"key" : "森林🔞","name": "🔞|森林B 多雜","type":1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 0, "filterable": 1},
+{"key" : "色猫🔞","name": "🔞|色猫 短視頻","type":1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php/", "searchable": 1, "quickSearch": 0, "filterable": 1},
+{"key" : "乐播2🔞","name": "️🔞|乐播2","type":1,"api": "https://lbapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 0, "filterable": 1},
 
 	
 	
