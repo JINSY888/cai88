@@ -310,5 +310,3 @@ TVB Plus,webview://http://m.345iptv.com/?act=play%26token=806785b3e369da03a1bac8
 
 
 
-阿斯特01,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6169/index.m3u8
-阿斯特02,http://
