@@ -267,28 +267,48 @@ TVBS HD,webview://https://345iptv.com/?act=play&tid=gt&id=56
 ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=gt&id=76
 ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
 爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
-體育,#genre#
-CCTV5体育,webview://https://345iptv.com/?act=play&tid=ty&id=1
-CCTV5+体育赛事,webview://https://345iptv.com/?act=play&tid=ty&id=2
-广东体育,webview://https://345iptv.com/?act=play&tid=ty&id=3
-劲爆体育,webview://https://345iptv.com/?act=play&tid=ty&id=4
-五星体育,webview://https://345iptv.com/?act=play&tid=ty&id=5
-新视觉HD,webview://https://345iptv.com/?act=play&tid=ty&id=6
-CCTV16奥林匹克,webview://https://345iptv.com/?act=play&tid=ty&id=7
-极速汽车,webview://https://345iptv.com/?act=play&tid=ty&id=12
-游戏风云,webview://https://345iptv.com/?act=play&tid=ty&id=13
-四海钓鱼,webview://https://345iptv.com/?act=play&tid=ty&id=14
-快乐垂钓,webview://https://345iptv.com/?act=play&tid=ty&id=15
-先锋乒羽,webview://https://345iptv.com/?act=play&tid=ty&id=16
-南国都市,webview://https://345iptv.com/?act=play&tid=ty&id=19
-广州竞赛,webview://https://345iptv.com/?act=play&tid=ty&id=20
-CCTV风云足球,webview://https://345iptv.com/?act=play&tid=ty&id=21
-魅力足球,webview://https://345iptv.com/?act=play&tid=ty&id=22
-緯來體育台,webview://https://345iptv.com/?act=play&tid=ty&id=23
-ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=ty&id=24
-ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=ty&id=25
-爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=ty&id=28
-爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=ty&id=29
+
+234iptv频道,#genre#
+凤凰卫视中文台,webview://https://m.234iptv.com/?act=play&tid=tv&id=20
+凤凰卫视资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=21
+凤凰卫视香港台,webview://https://m.234iptv.com/?act=play&tid=tv&id=22
+TVB翡翠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=24
+TVB无线新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=25
+TVB Plus,webview://https://m.234iptv.com/?act=play&tid=tv&id=26
+TVB明珠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=27
+华丽翡翠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=28
+香港有线新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=29
+香港有线18台,webview://https://m.234iptv.com/?act=play&tid=tv&id=30
+香港有线18台(备),webview://https://m.234iptv.com/?act=play&tid=tv&id=31
+NOW新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=36
+ViuTV,webview://https://m.234iptv.com/?act=play&tid=tv&id=38
+ViuTV6,webview://https://m.234iptv.com/?act=play&tid=tv&id=39
+HOY国际财经台,webview://https://m.234iptv.com/?act=play&tid=tv&id=41
+HOY资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=42
+HOY TV,webview://https://m.234iptv.com/?act=play&tid=tv&id=43
+港台电视31,webview://https://m.234iptv.com/?act=play&tid=tv&id=45
+港台电视32,webview://https://m.234iptv.com/?act=play&tid=tv&id=46
+中天新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=49
+东森新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=50
+东森财经新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=51
+中视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=52
+台视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=53
+三立新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=54
+民视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=56
+华视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=57
+镜电视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=58
+寰宇新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=59
+寰宇新闻台湾台,webview://https://m.234iptv.com/?act=play&tid=tv&id=60
+非凡新闻,webview://https://m.234iptv.com/?act=play&tid=tv&id=62
+TVBS新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=63
+TVBS HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=65
+中视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=68
+台视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=69
+民视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=70
+华视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=71
+緯來體育台,webview://https://m.234iptv.com/?act=play&tid=tv&id=77
+纬来日本台,webview://https://m.234iptv.com/?act=play&tid=tv&id=78
+纬来育乐台,webview://https://m.234iptv.com/?act=play&tid=tv&id=79
 
 
 
