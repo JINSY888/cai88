@@ -269,9 +269,9 @@ ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
 爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
 
 234iptv频道,#genre#
-凤凰卫视中文台,webview://https://m.234iptv.com/?act=play&tid=tv&id=20
-凤凰卫视资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=21
-凤凰卫视香港台,webview://https://m.234iptv.com/?act=play&tid=tv&id=22
+凤凰中文台,webview://https://m.234iptv.com/?act=play&tid=tv&id=20
+凤凰资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=21
+凤凰香港台,webview://https://m.234iptv.com/?act=play&tid=tv&id=22
 TVB翡翠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=24
 TVB无线新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=25
 TVB Plus,webview://https://m.234iptv.com/?act=play&tid=tv&id=26
