@@ -268,7 +268,43 @@ ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=gt&id=76
 ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
 爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
 爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=gt&id=80
-
+凤凰中文台,webview://https://m.234iptv.com/?act=play&tid=tv&id=20
+凤凰资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=21
+凤凰香港台,webview://https://m.234iptv.com/?act=play&tid=tv&id=22
+TVB翡翠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=24
+TVB无线新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=25
+TVB Plus,webview://https://m.234iptv.com/?act=play&tid=tv&id=26
+TVB明珠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=27
+华丽翡翠台,webview://https://m.234iptv.com/?act=play&tid=tv&id=28
+香港有线新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=29
+香港有线18台,webview://https://m.234iptv.com/?act=play&tid=tv&id=30
+香港有线18台(备),webview://https://m.234iptv.com/?act=play&tid=tv&id=31
+NOW新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=36
+ViuTV,webview://https://m.234iptv.com/?act=play&tid=tv&id=38
+ViuTV6,webview://https://m.234iptv.com/?act=play&tid=tv&id=39
+HOY国际财经台,webview://https://m.234iptv.com/?act=play&tid=tv&id=41
+HOY资讯台,webview://https://m.234iptv.com/?act=play&tid=tv&id=42
+HOY TV,webview://https://m.234iptv.com/?act=play&tid=tv&id=43
+港台电视31,webview://https://m.234iptv.com/?act=play&tid=tv&id=45
+港台电视32,webview://https://m.234iptv.com/?act=play&tid=tv&id=46
+中天新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=49
+东森新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=50
+东森财经新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=51
+中视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=52
+台视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=53
+三立新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=54
+民视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=56
+华视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=57
+镜电视新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=58
+寰宇新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=59
+寰宇新闻台湾台,webview://https://m.234iptv.com/?act=play&tid=tv&id=60
+非凡新闻,webview://https://m.234iptv.com/?act=play&tid=tv&id=62
+TVBS新闻台,webview://https://m.234iptv.com/?act=play&tid=tv&id=63
+TVBS HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=65
+中视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=68
+台视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=69
+民视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=70
+华视HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=71
 
 體育,#genre#
 CCTV5体育,webview://https://345iptv.com/?act=play&tid=ty&id=1
