@@ -214,9 +214,9 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 345iptv频道,#genre#
 
 
-凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
-凤凰卫视资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=2
-凤凰卫视香港台,webview://https://345iptv.com/?act=play&tid=gt&id=3
+凤凰中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
+凤凰资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=2
+凤凰香港台,webview://https://345iptv.com/?act=play&tid=gt&id=3
 TVB翡翠台,webview://https://345iptv.com/?act=play&tid=gt&id=5
 TVB无线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=6
 TVB Plus,webview://https://345iptv.com/?act=play&tid=gt&id=8
