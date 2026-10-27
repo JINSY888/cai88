@@ -211,6 +211,89 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 
 
+345iptv频道,#genre#
+
+
+凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
+凤凰卫视资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=2
+凤凰卫视香港台,webview://https://345iptv.com/?act=play&tid=gt&id=3
+TVB翡翠台,webview://https://345iptv.com/?act=play&tid=gt&id=5
+TVB无线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=6
+TVB Plus,webview://https://345iptv.com/?act=play&tid=gt&id=8
+TVB明珠台,webview://https://345iptv.com/?act=play&tid=gt&id=9
+香港有线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=11
+香港有线18台,webview://https://345iptv.com/?act=play&tid=gt&id=12
+香港有线18台(备),webview://https://345iptv.com/?act=play&tid=gt&id=13
+NOW新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=17
+ViuTV,webview://https://345iptv.com/?act=play&tid=gt&id=19
+ViuTV6,webview://https://345iptv.com/?act=play&tid=gt&id=20
+HOY国际财经台,webview://https://345iptv.com/?act=play&tid=gt&id=22
+HOY资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=23
+HOY TV,webview://https://345iptv.com/?act=play&tid=gt&id=24
+港台电视31,webview://https://345iptv.com/?act=play&tid=gt&id=26
+港台电视32,webview://https://345iptv.com/?act=play&tid=gt&id=27
+香港卫视HKS,webview://https://345iptv.com/?act=play&tid=gt&id=30
+澳门莲花,webview://https://345iptv.com/?act=play&tid=gt&id=35
+澳門卫视,webview://https://345iptv.com/?act=play&tid=gt&id=36
+澳视资讯,webview://https://345iptv.com/?act=play&tid=gt&id=37
+澳視澳門,webview://https://345iptv.com/?act=play&tid=gt&id=38
+澳門Macau,webview://https://345iptv.com/?act=play&tid=gt&id=39
+澳视综艺,webview://https://345iptv.com/?act=play&tid=gt&id=40
+澳亚卫视,webview://https://345iptv.com/?act=play&tid=gt&id=41
+中天新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=43
+东森新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=44
+东森财经新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=45
+中视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=46
+台视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=47
+三立新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=48
+非凡新闻,webview://https://345iptv.com/?act=play&tid=gt&id=49
+民视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=50
+华视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=51
+镜电视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=52
+寰宇新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=53
+寰宇新闻台湾台,webview://https://345iptv.com/?act=play&tid=gt&id=54
+TVBS新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=55
+TVBS HD,webview://https://345iptv.com/?act=play&tid=gt&id=56
+中视HD,webview://https://345iptv.com/?act=play&tid=gt&id=60
+台视HD,webview://https://345iptv.com/?act=play&tid=gt&id=61
+民视HD,webview://https://345iptv.com/?act=play&tid=gt&id=62
+华视HD,webview://https://345iptv.com/?act=play&tid=gt&id=63
+緯來體育台,webview://https://345iptv.com/?act=play&tid=gt&id=73
+纬来日本台,webview://https://345iptv.com/?act=play&tid=gt&id=74
+纬来育乐台,webview://https://345iptv.com/?act=play&tid=gt&id=75
+ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=gt&id=76
+ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
+爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
+爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=gt&id=80
+
+
+體育,#genre#
+CCTV5体育,webview://https://345iptv.com/?act=play&tid=ty&id=1
+CCTV5+体育赛事,webview://https://345iptv.com/?act=play&tid=ty&id=2
+广东体育,webview://https://345iptv.com/?act=play&tid=ty&id=3
+劲爆体育,webview://https://345iptv.com/?act=play&tid=ty&id=4
+五星体育,webview://https://345iptv.com/?act=play&tid=ty&id=5
+新视觉HD,webview://https://345iptv.com/?act=play&tid=ty&id=6
+CCTV16奥林匹克,webview://https://345iptv.com/?act=play&tid=ty&id=7
+极速汽车,webview://https://345iptv.com/?act=play&tid=ty&id=12
+游戏风云,webview://https://345iptv.com/?act=play&tid=ty&id=13
+四海钓鱼,webview://https://345iptv.com/?act=play&tid=ty&id=14
+快乐垂钓,webview://https://345iptv.com/?act=play&tid=ty&id=15
+先锋乒羽,webview://https://345iptv.com/?act=play&tid=ty&id=16
+南国都市,webview://https://345iptv.com/?act=play&tid=ty&id=19
+广州竞赛,webview://https://345iptv.com/?act=play&tid=ty&id=20
+CCTV风云足球,webview://https://345iptv.com/?act=play&tid=ty&id=21
+魅力足球,webview://https://345iptv.com/?act=play&tid=ty&id=22
+緯來體育台,webview://https://345iptv.com/?act=play&tid=ty&id=23
+ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=ty&id=24
+ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=ty&id=25
+爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=ty&id=28
+爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=ty&id=29
+
+
+
+
+
 梦幻频道_520,#genre#
 
 
@@ -295,59 +378,5 @@ JAPAN,http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6225/index.
 
 
 
-测试频道_520,#genre#
-
-
-凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
-凤凰卫视资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=2
-凤凰卫视香港台,webview://https://345iptv.com/?act=play&tid=gt&id=3
-TVB翡翠台,webview://https://345iptv.com/?act=play&tid=gt&id=5
-TVB无线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=6
-TVB Plus,webview://https://345iptv.com/?act=play&tid=gt&id=8
-TVB明珠台,webview://https://345iptv.com/?act=play&tid=gt&id=9
-香港有线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=11
-香港有线18台,webview://https://345iptv.com/?act=play&tid=gt&id=12
-香港有线18台(备),webview://https://345iptv.com/?act=play&tid=gt&id=13
-NOW新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=17
-ViuTV,webview://https://345iptv.com/?act=play&tid=gt&id=19
-ViuTV6,webview://https://345iptv.com/?act=play&tid=gt&id=20
-HOY国际财经台,webview://https://345iptv.com/?act=play&tid=gt&id=22
-HOY资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=23
-HOY TV,webview://https://345iptv.com/?act=play&tid=gt&id=24
-港台电视31,webview://https://345iptv.com/?act=play&tid=gt&id=26
-港台电视32,webview://https://345iptv.com/?act=play&tid=gt&id=27
-香港卫视HKS,webview://https://345iptv.com/?act=play&tid=gt&id=30
-澳门莲花,webview://https://345iptv.com/?act=play&tid=gt&id=35
-澳門卫视,webview://https://345iptv.com/?act=play&tid=gt&id=36
-澳视资讯,webview://https://345iptv.com/?act=play&tid=gt&id=37
-澳視澳門,webview://https://345iptv.com/?act=play&tid=gt&id=38
-澳門Macau,webview://https://345iptv.com/?act=play&tid=gt&id=39
-澳视综艺,webview://https://345iptv.com/?act=play&tid=gt&id=40
-澳亚卫视,webview://https://345iptv.com/?act=play&tid=gt&id=41
-中天新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=43
-东森新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=44
-东森财经新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=45
-中视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=46
-台视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=47
-三立新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=48
-非凡新闻,webview://https://345iptv.com/?act=play&tid=gt&id=49
-民视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=50
-华视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=51
-镜电视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=52
-寰宇新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=53
-寰宇新闻台湾台,webview://https://345iptv.com/?act=play&tid=gt&id=54
-TVBS新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=55
-TVBS HD,webview://https://345iptv.com/?act=play&tid=gt&id=56
-中视HD,webview://https://345iptv.com/?act=play&tid=gt&id=60
-台视HD,webview://https://345iptv.com/?act=play&tid=gt&id=61
-民视HD,webview://https://345iptv.com/?act=play&tid=gt&id=62
-华视HD,webview://https://345iptv.com/?act=play&tid=gt&id=63
-緯來體育台,webview://https://345iptv.com/?act=play&tid=gt&id=73
-纬来日本台,webview://https://345iptv.com/?act=play&tid=gt&id=74
-纬来育乐台,webview://https://345iptv.com/?act=play&tid=gt&id=75
-ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=gt&id=76
-ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
-爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
-爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=gt&id=80
 
 
