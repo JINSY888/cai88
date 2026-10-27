@@ -309,7 +309,12 @@ TVBS HD,webview://https://m.234iptv.com/?act=play&tid=tv&id=65
 緯來體育台,webview://https://m.234iptv.com/?act=play&tid=tv&id=77
 纬来日本台,webview://https://m.234iptv.com/?act=play&tid=tv&id=78
 纬来育乐台,webview://https://m.234iptv.com/?act=play&tid=tv&id=79
-
+广州综合,webview://https://m.234iptv.com/?act=play&tid=tv&id=117
+广州新闻,webview://https://m.234iptv.com/?act=play&tid=tv&id=118
+广州影视,webview://https://m.234iptv.com/?act=play&tid=tv&id=119
+广州法治,webview://https://m.234iptv.com/?act=play&tid=tv&id=120
+广州南国都市,webview://https://m.234iptv.com/?act=play&tid=tv&id=121
+广州竞赛,webview://https://m.234iptv.com/?act=play&tid=tv&id=122
 
 
 
