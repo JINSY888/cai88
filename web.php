@@ -174,6 +174,9 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 香港频道,#genre#
 翡翠台,http://120.238.88.141:9901/tsfile/live/1005_1.m3u8
 明珠台,http://120.238.88.141:9901/tsfile/live/1035_1.m3u8
+RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 
 翡翠台HHZT,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 明珠台HHZT,http://120.234.44.98:18180/TV00000000000000000035@HHZT
