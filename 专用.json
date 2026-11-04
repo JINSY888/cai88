@@ -1,237 +1,424 @@
+{
 
-綜合,#genre#
-CCTV1综合,webview://https://345iptv.com/?act=play&tid=tv&id=1
-CCTV5体育,webview://https://345iptv.com/?act=play&tid=tv&id=3
-CCTV5+体育赛事,webview://https://345iptv.com/?act=play&tid=tv&id=5
-CCTV13新闻,webview://https://345iptv.com/?act=play&tid=tv&id=7
-广东珠江频道,webview://https://345iptv.com/?act=play&tid=tv&id=9
-广东体育,webview://https://345iptv.com/?act=play&tid=tv&id=11
-湖南卫视,webview://https://345iptv.com/?act=play&tid=tv&id=17
-凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=tv&id=20
-凤凰卫视资讯台,webview://https://345iptv.com/?act=play&tid=tv&id=21
-凤凰卫视香港台,webview://https://345iptv.com/?act=play&tid=tv&id=22
-TVB翡翠台,webview://https://345iptv.com/?act=play&tid=tv&id=24
-TVB无线新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=25
-TVB Plus,webview://https://345iptv.com/?act=play&tid=tv&id=26
-TVB明珠台,webview://https://345iptv.com/?act=play&tid=tv&id=27
-华丽翡翠台,webview://https://345iptv.com/?act=play&tid=tv&id=28
-香港有线新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=29
-香港有线18台,webview://https://345iptv.com/?act=play&tid=tv&id=30
-香港有线18台(备),webview://https://345iptv.com/?act=play&tid=tv&id=31
-NOW新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=36
-ViuTV,webview://https://345iptv.com/?act=play&tid=tv&id=38
-ViuTV6,webview://https://345iptv.com/?act=play&tid=tv&id=39
-HOY国际财经台,webview://https://345iptv.com/?act=play&tid=tv&id=41
-HOY资讯台,webview://https://345iptv.com/?act=play&tid=tv&id=42
-HOY TV,webview://https://345iptv.com/?act=play&tid=tv&id=43
-港台电视31,webview://https://345iptv.com/?act=play&tid=tv&id=45
-港台电视32,webview://https://345iptv.com/?act=play&tid=tv&id=46
-中天新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=49
-东森新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=50
-东森财经新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=51
-中视新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=52
-台视新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=53
-三立新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=54
-民视新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=56
-华视新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=57
-镜电视新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=58
-寰宇新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=59
-寰宇新闻台湾台,webview://https://345iptv.com/?act=play&tid=tv&id=60
-非凡新闻,webview://https://345iptv.com/?act=play&tid=tv&id=62
-TVBS新闻台,webview://https://345iptv.com/?act=play&tid=tv&id=63
-TVBS HD,webview://https://345iptv.com/?act=play&tid=tv&id=65
-中视HD,webview://https://345iptv.com/?act=play&tid=tv&id=68
-台视HD,webview://https://345iptv.com/?act=play&tid=tv&id=69
-民视HD,webview://https://345iptv.com/?act=play&tid=tv&id=70
-华视HD,webview://https://345iptv.com/?act=play&tid=tv&id=71
-緯來體育台,webview://https://345iptv.com/?act=play&tid=tv&id=77
-纬来日本台,webview://https://345iptv.com/?act=play&tid=tv&id=78
-纬来育乐台,webview://https://345iptv.com/?act=play&tid=tv&id=79
-DAZN 1,webview://https://345iptv.com/?act=play&tid=tv&id=80
-DAZN 2,webview://https://345iptv.com/?act=play&tid=tv&id=81
-爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=tv&id=83
-爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=tv&id=84
-BBC新闻,webview://https://345iptv.com/?act=play&tid=tv&id=94
-MOMO综合台,webview://https://345iptv.com/?act=play&tid=tv&id=97
-东森超视,webview://https://345iptv.com/?act=play&tid=tv&id=98
-茶频道,webview://https://345iptv.com/?act=play&tid=tv&id=100
-快乐垂钓,webview://https://345iptv.com/?act=play&tid=tv&id=102
-先锋乒羽,webview://https://345iptv.com/?act=play&tid=tv&id=103
-湖南国际,webview://https://345iptv.com/?act=play&tid=tv&id=104
-湖南电视剧,webview://https://345iptv.com/?act=play&tid=tv&id=105
-金鹰卡通,webview://https://345iptv.com/?act=play&tid=tv&id=106
-金鹰纪实,webview://https://345iptv.com/?act=play&tid=tv&id=107
-湖南经视,webview://https://345iptv.com/?act=play&tid=tv&id=108
-湖南娱乐,webview://https://345iptv.com/?act=play&tid=tv&id=109
-湖南都市,webview://https://345iptv.com/?act=play&tid=tv&id=110
-湖南公共,webview://https://345iptv.com/?act=play&tid=tv&id=111
-湖南快乐购,webview://https://345iptv.com/?act=play&tid=tv&id=112
-长沙政法,webview://https://345iptv.com/?act=play&tid=tv&id=113
-长沙女性,webview://https://345iptv.com/?act=play&tid=tv&id=114
-长沙新闻,webview://https://345iptv.com/?act=play&tid=tv&id=115
-广州综合,webview://https://345iptv.com/?act=play&tid=tv&id=117
-广州新闻,webview://https://345iptv.com/?act=play&tid=tv&id=118
-广州影视,webview://https://345iptv.com/?act=play&tid=tv&id=119
-广州法治,webview://https://345iptv.com/?act=play&tid=tv&id=120
-广州南国都市,webview://https://345iptv.com/?act=play&tid=tv&id=121
-广州竞赛,webview://https://345iptv.com/?act=play&tid=tv&id=122
-體育,#genre#
-CCTV5体育,webview://https://345iptv.com/?act=play&tid=ty&id=1
-CCTV5+体育赛事,webview://https://345iptv.com/?act=play&tid=ty&id=2
-广东体育,webview://https://345iptv.com/?act=play&tid=ty&id=3
-劲爆体育,webview://https://345iptv.com/?act=play&tid=ty&id=4
-五星体育,webview://https://345iptv.com/?act=play&tid=ty&id=5
-新视觉HD,webview://https://345iptv.com/?act=play&tid=ty&id=6
-CCTV16奥林匹克,webview://https://345iptv.com/?act=play&tid=ty&id=7
-极速汽车,webview://https://345iptv.com/?act=play&tid=ty&id=12
-游戏风云,webview://https://345iptv.com/?act=play&tid=ty&id=13
-四海钓鱼,webview://https://345iptv.com/?act=play&tid=ty&id=14
-快乐垂钓,webview://https://345iptv.com/?act=play&tid=ty&id=15
-先锋乒羽,webview://https://345iptv.com/?act=play&tid=ty&id=16
-南国都市,webview://https://345iptv.com/?act=play&tid=ty&id=19
-广州竞赛,webview://https://345iptv.com/?act=play&tid=ty&id=20
-CCTV风云足球,webview://https://345iptv.com/?act=play&tid=ty&id=21
-魅力足球,webview://https://345iptv.com/?act=play&tid=ty&id=22
-緯來體育台,webview://https://345iptv.com/?act=play&tid=ty&id=23
-ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=ty&id=24
-ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=ty&id=25
-爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=ty&id=28
-爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=ty&id=29
-央視,#genre#
-CCTV1综合,webview://https://345iptv.com/?act=play&tid=ys&id=1
-CCTV2财经,webview://https://345iptv.com/?act=play&tid=ys&id=2
-CCTV3综艺,webview://https://345iptv.com/?act=play&tid=ys&id=3
-CCTV4中文国际,webview://https://345iptv.com/?act=play&tid=ys&id=4
-CCTV5体育,webview://https://345iptv.com/?act=play&tid=ys&id=5
-CCTV5+体育赛事,webview://https://345iptv.com/?act=play&tid=ys&id=6
-CCTV6电影,webview://https://345iptv.com/?act=play&tid=ys&id=7
-CCTV7国防军事,webview://https://345iptv.com/?act=play&tid=ys&id=8
-CCTV8电视剧,webview://https://345iptv.com/?act=play&tid=ys&id=9
-CCTV9纪录,webview://https://345iptv.com/?act=play&tid=ys&id=10
-CCTV10科教,webview://https://345iptv.com/?act=play&tid=ys&id=11
-CCTV11戏曲,webview://https://345iptv.com/?act=play&tid=ys&id=12
-CCTV12社会与法,webview://https://345iptv.com/?act=play&tid=ys&id=13
-CCTV13新闻,webview://https://345iptv.com/?act=play&tid=ys&id=14
-CCTV14少儿,webview://https://345iptv.com/?act=play&tid=ys&id=15
-CCTV15音乐,webview://https://345iptv.com/?act=play&tid=ys&id=16
-CCTV16奥林匹克,webview://https://345iptv.com/?act=play&tid=ys&id=17
-CCTV17农业农村,webview://https://345iptv.com/?act=play&tid=ys&id=18
-CCTV4k高清,webview://https://345iptv.com/?act=play&tid=ys&id=19
-CCTV8k高清,webview://https://345iptv.com/?act=play&tid=ys&id=20
-CCTV4欧洲HD,webview://https://345iptv.com/?act=play&tid=ys&id=21
-CCTV4美洲HD,webview://https://345iptv.com/?act=play&tid=ys&id=22
-CGTN,webview://https://345iptv.com/?act=play&tid=ys&id=23
-CGTN纪录,webview://https://345iptv.com/?act=play&tid=ys&id=24
-CCTV阿拉伯语,webview://https://345iptv.com/?act=play&tid=ys&id=25
-CCTV法语,webview://https://345iptv.com/?act=play&tid=ys&id=26
-CCTV西班牙语,webview://https://345iptv.com/?act=play&tid=ys&id=27
-CCTV俄语,webview://https://345iptv.com/?act=play&tid=ys&id=28
-CETV-1,webview://https://345iptv.com/?act=play&tid=ys&id=29
-CETV-2,webview://https://345iptv.com/?act=play&tid=ys&id=30
-CETV-3,webview://https://345iptv.com/?act=play&tid=ys&id=31
-CETV-4,webview://https://345iptv.com/?act=play&tid=ys&id=32
-CCTV兵器科技,webview://https://345iptv.com/?act=play&tid=ys&id=33
-CCTV怀旧剧场,webview://https://345iptv.com/?act=play&tid=ys&id=34
-CCTV第一剧场,webview://https://345iptv.com/?act=play&tid=ys&id=35
-CCTV风云剧场,webview://https://345iptv.com/?act=play&tid=ys&id=36
-CCTV风云音乐,webview://https://345iptv.com/?act=play&tid=ys&id=37
-CCTV风云足球,webview://https://345iptv.com/?act=play&tid=ys&id=38
-CCTV世界地理,webview://https://345iptv.com/?act=play&tid=ys&id=39
-CCTV文化精品,webview://https://345iptv.com/?act=play&tid=ys&id=40
-CCTV央视台球,webview://https://345iptv.com/?act=play&tid=ys&id=41
-CCTV高尔夫网球,webview://https://345iptv.com/?act=play&tid=ys&id=42
-CCTV女性时尚,webview://https://345iptv.com/?act=play&tid=ys&id=43
-衛視,#genre#
-湖南卫视,webview://https://345iptv.com/?act=play&tid=ws&id=1
-江苏卫视,webview://https://345iptv.com/?act=play&tid=ws&id=2
-浙江卫视,webview://https://345iptv.com/?act=play&tid=ws&id=3
-东方卫视,webview://https://345iptv.com/?act=play&tid=ws&id=4
-北京卫视,webview://https://345iptv.com/?act=play&tid=ws&id=5
-深圳卫视,webview://https://345iptv.com/?act=play&tid=ws&id=6
-广东卫视,webview://https://345iptv.com/?act=play&tid=ws&id=7
-安徽卫视,webview://https://345iptv.com/?act=play&tid=ws&id=8
-东南卫视,webview://https://345iptv.com/?act=play&tid=ws&id=9
-河北卫视,webview://https://345iptv.com/?act=play&tid=ws&id=10
-黑龙江卫视,webview://https://345iptv.com/?act=play&tid=ws&id=11
-湖北卫视,webview://https://345iptv.com/?act=play&tid=ws&id=12
-江西卫视,webview://https://345iptv.com/?act=play&tid=ws&id=13
-辽宁卫视,webview://https://345iptv.com/?act=play&tid=ws&id=14
-海南卫视,webview://https://345iptv.com/?act=play&tid=ws&id=15
-山东卫视,webview://https://345iptv.com/?act=play&tid=ws&id=16
-四川卫视,webview://https://345iptv.com/?act=play&tid=ws&id=17
-天津卫视,webview://https://345iptv.com/?act=play&tid=ws&id=18
-重庆卫视,webview://https://345iptv.com/?act=play&tid=ws&id=19
-贵州卫视,webview://https://345iptv.com/?act=play&tid=ws&id=20
-吉林卫视,webview://https://345iptv.com/?act=play&tid=ws&id=21
-广西卫视,webview://https://345iptv.com/?act=play&tid=ws&id=22
-河南卫视,webview://https://345iptv.com/?act=play&tid=ws&id=23
-甘肃卫视,webview://https://345iptv.com/?act=play&tid=ws&id=24
-青海卫视,webview://https://345iptv.com/?act=play&tid=ws&id=25
-云南卫视,webview://https://345iptv.com/?act=play&tid=ws&id=26
-内蒙古卫视,webview://https://345iptv.com/?act=play&tid=ws&id=27
-山西卫视,webview://https://345iptv.com/?act=play&tid=ws&id=28
-陕西卫视,webview://https://345iptv.com/?act=play&tid=ws&id=29
-兵团卫视,webview://https://345iptv.com/?act=play&tid=ws&id=30
-新疆卫视,webview://https://345iptv.com/?act=play&tid=ws&id=31
-西藏卫视,webview://https://345iptv.com/?act=play&tid=ws&id=32
-宁夏卫视,webview://https://345iptv.com/?act=play&tid=ws&id=33
-延边卫视,webview://https://345iptv.com/?act=play&tid=ws&id=34
-康巴卫视,webview://https://345iptv.com/?act=play&tid=ws&id=35
-大湾区卫视,webview://https://345iptv.com/?act=play&tid=ws&id=36
-广东珠江频道,webview://https://345iptv.com/?act=play&tid=ws&id=37
-厦门卫视,webview://https://345iptv.com/?act=play&tid=ws&id=38
-安多卫视,webview://https://345iptv.com/?act=play&tid=ws&id=39
-农林卫视,webview://https://345iptv.com/?act=play&tid=ws&id=40
-三沙卫视,webview://https://345iptv.com/?act=play&tid=ws&id=41
-港澳台,#genre#
-凤凰卫视中文台,webview://https://345iptv.com/?act=play&tid=gt&id=1
-凤凰卫视资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=2
-凤凰卫视香港台,webview://https://345iptv.com/?act=play&tid=gt&id=3
-TVB翡翠台,webview://https://345iptv.com/?act=play&tid=gt&id=5
-TVB无线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=6
-TVB Plus,webview://https://345iptv.com/?act=play&tid=gt&id=8
-TVB明珠台,webview://https://345iptv.com/?act=play&tid=gt&id=9
-香港有线新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=11
-香港有线18台,webview://https://345iptv.com/?act=play&tid=gt&id=12
-香港有线18台(备),webview://https://345iptv.com/?act=play&tid=gt&id=13
-NOW新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=17
-ViuTV,webview://https://345iptv.com/?act=play&tid=gt&id=19
-ViuTV6,webview://https://345iptv.com/?act=play&tid=gt&id=20
-HOY国际财经台,webview://https://345iptv.com/?act=play&tid=gt&id=22
-HOY资讯台,webview://https://345iptv.com/?act=play&tid=gt&id=23
-HOY TV,webview://https://345iptv.com/?act=play&tid=gt&id=24
-港台电视31,webview://https://345iptv.com/?act=play&tid=gt&id=26
-港台电视32,webview://https://345iptv.com/?act=play&tid=gt&id=27
-香港卫视HKS,webview://https://345iptv.com/?act=play&tid=gt&id=30
-澳门莲花,webview://https://345iptv.com/?act=play&tid=gt&id=35
-澳門卫视,webview://https://345iptv.com/?act=play&tid=gt&id=36
-澳视资讯,webview://https://345iptv.com/?act=play&tid=gt&id=37
-澳視澳門,webview://https://345iptv.com/?act=play&tid=gt&id=38
-澳門Macau,webview://https://345iptv.com/?act=play&tid=gt&id=39
-澳视综艺,webview://https://345iptv.com/?act=play&tid=gt&id=40
-澳亚卫视,webview://https://345iptv.com/?act=play&tid=gt&id=41
-中天新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=43
-东森新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=44
-东森财经新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=45
-中视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=46
-台视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=47
-三立新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=48
-非凡新闻,webview://https://345iptv.com/?act=play&tid=gt&id=49
-民视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=50
-华视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=51
-镜电视新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=52
-寰宇新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=53
-寰宇新闻台湾台,webview://https://345iptv.com/?act=play&tid=gt&id=54
-TVBS新闻台,webview://https://345iptv.com/?act=play&tid=gt&id=55
-TVBS HD,webview://https://345iptv.com/?act=play&tid=gt&id=56
-中视HD,webview://https://345iptv.com/?act=play&tid=gt&id=60
-台视HD,webview://https://345iptv.com/?act=play&tid=gt&id=61
-民视HD,webview://https://345iptv.com/?act=play&tid=gt&id=62
-华视HD,webview://https://345iptv.com/?act=play&tid=gt&id=63
-緯來體育台,webview://https://345iptv.com/?act=play&tid=gt&id=73
-纬来日本台,webview://https://345iptv.com/?act=play&tid=gt&id=74
-纬来育乐台,webview://https://345iptv.com/?act=play&tid=gt&id=75
-ELEVEN 1（DAZN 1）,webview://https://345iptv.com/?act=play&tid=gt&id=76
-ELEVEN 2（DAZN 2）,webview://https://345iptv.com/?act=play&tid=gt&id=77
-爱尔达体育1台,webview://https://345iptv.com/?act=play&tid=gt&id=79
-爱尔达体育2台,webview://https://345iptv.com/?act=play&tid=gt&id=80
+    "sites": [
+	 {
+      "key": "🍊Boba影视🍊",
+      "name": "🔞Boba影视🔞",
+      "type": 0,
+      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+
+        "4K",
+        "日韩无码",
+        "欧美精品",
+        "国产精品",
+        "中文字幕",
+        "人妻系列",
+        "强奸乱伦",
+        "自拍偷拍",
+        "重口味"
+      ]
+    },
+	{
+      "key": "fqzy资源",
+      "name": "🔞首页换源🔞",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "黑料网曝",
+        "国产大制作",
+        "偷拍自拍",
+        "高清无码",
+        "乱伦毁三观",
+        "淫乱学生",
+        "主播女网红",
+        "高清有码",
+        "中文字幕",
+        "动漫精选",
+        "欧美精品"
+      ]
+    },
+	
+	{
+            "key": "🔞梦幻🔞",
+            "name": "🔞梦幻🔞",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+	
+	
+	
+	
+	
+	{"key": "滴滴资源", "name": "🐬滴滴资源｜🔞[成人]", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	
+     {
+            "key": "牛牛资源",
+            "name": "牛牛资源",
+            "type": 1,
+            "api": "https://api.niuniuzy.me/api.php/provide/vod",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+
+	 {
+      "key": "森林专场🔞",
+      "name": "🔞|森林A🔞",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [ "精品推荐", "国产色情", "主播直播", "亚洲无码", "亚洲有码", "中文字幕", "巨乳美乳", "人妻熟女", "强奸乱伦", "欧美精品", "萝莉少女", "伦理三级", "成人动漫", "自拍偷拍", "制服丝袜", "口交颜射", "日本精品", "Cosplay", "素人自拍", "台湾辣妹", "韩国御姐", "唯美港姐", "东南亚AV", "欺辱凌辱", "剧情介绍", "多人多P", "91探花", "网红流出", "野外露出", "古装扮演", "女优系列", "可爱学生", "风情旗袍", "兽耳系列", "瑜伽裤", "闷骚护士", "过膝袜", "网曝门", "传媒出品", "女同性恋", "男同性恋", "恋腿狂魔" ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.4
+      }
+    },
+	{
+      "key": "番外🔞",
+      "name": "🔞|番外🔞",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [ "群交淫乱", "偷拍自拍", "制服丝袜", "无码专区", "卡通动漫", "中文字幕", "欧美性爱", "巨乳美乳", "国产裸聊", "国产自拍", "国产盗摄", "伦理三级", "女同性恋", "少女萝莉", "人妖系列", "虚拟VR" ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.4
+      }
+    },
+	      {
+      "key": "番外🔞",
+      "name": "🔞|番外🔞",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+    "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{"key":"py_妲己视频","name":"🔞🅿️妲己视频｜py","type":3,"api":"https://github.boki.moe/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/妲己视频.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120},
+{"key":"py_菠萝七区","name":"🔞🅿️菠萝七区｜py","type":3,"api":"https://github.boki.moe/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/菠萝七区.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120},
+{"key":"py_香蕉视频","name":"🔞🅿️香蕉视频｜py","type":3,"api":"https://github.boki.moe/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/香蕉视频.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120},
+{"key":"py_五月天","name":"🔞🅿️五月天｜py","type":3,"api":"https://github.boki.moe/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/lib/五月天.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120},
+		{"key":"🔞美少女资源🔞","name":"🔞美少女资源🔞","type":0,"api":"http://150.109.94.44:1112/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔞淫水机资源🔞","name":"🔞淫水机资源🔞","type":0,"api":"https://apidanaizi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔞香奶儿资源🔞","name":"🔞香奶儿资源🔞","type":0,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔞大地资源🔞","name":"🔞大地资源🔞","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔞色猫资源🔞","name":"🔞色猫资源🔞","type":1,"api":"https://hsck0.25img.com//api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{ "key":"🔞AIvin🔞", "name":"🔞AIvin🔞", "type":0, "api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+	{"key": "slyzy", "name": "🐬湿乐园｜🔞[成人]", "type": 1, "api": "https://xxavs.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "nxxzy", "name": "🐬奶香香｜🔞[成人]", "type": 1, "api": "https://naixxzy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1},
+		{"key": "无尽资源", "name": "🐬无尽资源｜🔞[成人]", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "玉兔资源", "name": "🐬玉兔資源｜🔞[成人]", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "精品资源", "name": "🐬精品資源｜🔞[成人]", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "夜色资源", "name": "🐬越南資源｜🔞[成人]", "type": 1, "api": "https://www.vnzyz.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "辣椒資源", "name": "🐬辣椒資源｜🔞[成人]", "type": 1, "api": "http://apilj.com/api.php/provide/vod/at/json/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "鯊魚資源", "name": "🐬鯊魚資源｜🔞[成人]", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "155資源", "name": "🐬155資源｜🔞[成人]", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0},
+        
+        {"key": "蕃茄", "name": "🐬18+蕃茄｜🔞[成人]", "type": 1, "api": "https://fqzy.me//api.php/provide/vod/", "searchable": 1, "quickSearch": 0, "filterable": 1},
+        {"key": "红桃🍑", "name": "🐬红桃视频🍑｜🔞[成人]", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
+        {"key": "jkun资源", "name": "🐬jkun资源｜🔞[成人]", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0},
+        {"key": "精品X资源", "name": "🐬精品X资源｜🔞[成人]", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0},
+        {"key": "CK资源", "name": "🐬CK资源｜🔞[成人]", "type": 1, "api": "https://ckzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0},
+        {"key": "🔞七天资源🌈", "name": "🐬七天资源🌈｜🔞[成人]", "type": 1, "api": "https://8day.icu/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 0},
+		
+		
+{
+            "key": "🔞|155 抖陰解說🔞",
+            "name": "🔞|155 抖陰解說🔞",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦2",
+            "name": "梦2",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦3",
+            "name": "梦3",
+            "type": 1,
+            "api": "https://www.xrbsp.com/api/xml.php",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦4",
+            "name": "梦4",
+            "type": 1,
+            "api": "https://www.msnii.com/api/xml.php",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦5",
+            "name": "梦5",
+            "type": 1,
+            "api": "https://www.gdlsp.com/api/xml.php",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦6",
+            "name": "梦6",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+
+	
+
+ 
+{
+            "key": "梦7",
+            "name": "梦7",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+  {
+            "key": "梦8",
+            "name": "梦8",
+            "type": 1,
+            "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+      
+{
+            "key": "梦9",
+            "name": "梦9",
+            "type": 1,
+            "api": "http://f2dcj6.com/sapi?ac=videolist",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦10",
+            "name": "梦10",
+            "type": 1,
+            "api": "http://dadiapi.com/api.php",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },		
+		
+		{
+            "key": "梦11",
+            "name": "梦11",
+            "type": 1,
+            "api": "https://aosikazy.com/api.php/provide/vod/",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{
+            "key": "梦12",
+            "name": "梦12",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		{
+            "key": "梦13",
+            "name": "梦13",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{
+            "key": "梦14",
+            "name": "梦14",
+            "type": 1,
+            "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+{
+            "key": "梦15",
+            "name": "梦15",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{
+            "key": "梦16",
+            "name": "梦16",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{
+            "key": "梦17",
+            "name": "梦17",
+            "type": 1,
+            "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		{
+            "key": "梦18",
+            "name": "梦18",
+            "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		{
+            "key": "梦19",
+            "name": "梦19",
+            "type": 1,
+            "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		{
+            "key": "梦20",
+            "name": "梦20",
+            "type": 1,
+            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		{
+            "key": "梦21",
+            "name": "梦21",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		{
+            "key": "梦22",
+            "name": "梦22",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+		
+		
+		
+        {
+            "key": "梦幻",
+            "name": "梦幻",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/",
+          "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+        },
+    
+		
+    {
+      "key": "(18+)浪潮资源", 
+      "name": "(18+)浪潮资源", "type": 1,
+      "api": "http://langchaozy6.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0 
+    } 
+],
+
+
+    "lives": [
+        {
+            "group": "梦幻",
+            "channels": [
+          
+              {"name": "惊艳","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts"]},           
+{"name": "潘多啦","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts"]},           
+{"name": "彩虹","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts"]},           
+{"name": "松1","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts"]},           
+{"name": "松2","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts"]},           
+{"name": "松3","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts"]},           
+{"name": "香蕉","urls": [ "http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts"]},           
+{"name": "松视一台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/88.ts"]},           
+{"name": "松视二台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/89.ts"]},           
+{"name": "松视三台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/90.ts"]},           
+{"name": "松视四台","urls": [ "http://xiangxiws.vip:6777/twsese.php?id=404"]},           
+{"name": "香蕉台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/117.ts"]},           
+{"name": "潘朵拉完美台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/86.ts"]},           
+{"name": "驚艷台","urls": [ "http://154.219.125.7:833/live/G2s9zK2n9m/xDtwVfWM8T/85.ts"]},           
+       
+{"name": "亚洲21","urls": [ "http://xionggroup.uk:2347/livehttpplay?channel_id=18243"]}
+				
+       ]            
+        }
+             ],
+
+
+
+
+ 
+  "parses": [ 
+{"name": "超级解析1","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+{"name":"巧技","type": 1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"超级解析2","type": 1,"url":"https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url="},
+{"name":"七七八八解析","type": 1,"url":"http://42.157.129.139:7788/json/aiku.php?url=","ext":{"flag":["seven","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+{"name": "2345解析","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
+{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
+{"name": "JSON解析","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}}, 
+{"name": "咸鱼解析","type": 1,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+{"name":"-爱豆-","type": 1,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
+{"name": "CGD解析","type": 1, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
+{"name": "777解析","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+{"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+{"name": "潜龙解析","type": 0,"url": "https://t1.qlplayer.cyou/player/?url="},
+{"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}}
+],
+
+"flags":["youku","qq","iqiyi","qiyi","leshi","letv","bilibili1","imgo","sohu","tudou","douyin","pptv","mgtv","wasu"],
+"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"}]}],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
